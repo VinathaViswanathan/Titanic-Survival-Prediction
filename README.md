@@ -39,7 +39,7 @@ Combined transformers using a Pipeline.
    ii. max_depth: None, 5, 10
   iii. min_samples_split: 2, 3, 4
 
-🔍 Evaluation
+## 🔍 Evaluation
 Achieved ~78.77% accuracy on the validation set.
 
 Best model:
